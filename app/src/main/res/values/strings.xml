@@ -5,4 +5,11 @@
     <string name="login">Log In</string>
     <string name="signUp">Sign Up</string>
     <string name="top5">Top 5</string>
+    <string name="signUpGoogle">SignUp with Google</string>
+    <string name="createNewUser">or Create New User</string>
+    <string name="orLoginWithUsername">or login with username</string>
+    <string name="hintUsername">username</string>
+    <string name="hintEmail">example@gmail.com</string>
+    <string name="hintPassword">password</string>
+    <string name="loginGoogle">Login with Google</string>
 </resources>
