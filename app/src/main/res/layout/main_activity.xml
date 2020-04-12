@@ -7,9 +7,4 @@
     android:layout_height="match_parent"
     tools:context=".welcome.MainActivity" >
 
-    <fragment
-        android:id="@+id/fragment"
-        android:name="nice.fien.poopscoop.welcome.MainFragment"
-        android:layout_width="424dp"
-        android:layout_height="296dp" />
 </FrameLayout>
