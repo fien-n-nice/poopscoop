@@ -1,4 +1,4 @@
-package nice.fien.poopscoop.ui.main
+package nice.fien.poopscoop.welcome
 
 import androidx.lifecycle.ViewModelProviders
 import android.os.Bundle
